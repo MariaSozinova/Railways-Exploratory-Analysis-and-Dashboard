@@ -31,11 +31,7 @@ The dataset did not include latitude and longitude coordinates for stations, whi
 
 Tableau was selected as the tool for the main analysis and visualization. I created several calculated fields and added filters and filter actions on the dashboard so the user can manipulate data by selecting required departure or destination points, and periods of operations. 
 
-![] (https://github.com/MariaSozinova/Railways-Exploratory-Analysis-and-Dashboard/blob/main/assets/Route%20Analysis.jpg)
 
-![] (https://github.com/MariaSozinova/Railways-Exploratory-Analysis-and-Dashboard/blob/main/assets/Revenue%20Analysis.jpg)
-
-![] (https://github.com/MariaSozinova/Railways-Exploratory-Analysis-and-Dashboard/blob/main/assets/Performance%20Analysis.jpg)
 
 ## Key Findings
 
